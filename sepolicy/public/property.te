@@ -1,0 +1,17 @@
+# Audio
+system_public_prop(system_oplus_audio_prop)
+
+# Radio
+system_public_prop(system_oplus_radio_prop)
+
+# Camera
+system_restricted_prop(system_oplus_camera_prop)
+
+# Fingerprint
+system_public_prop(system_fingerprint_prop)
+
+# Touch
+system_public_prop(system_oplus_touch_prop)
+
+# Version
+system_vendor_config_prop(system_oplus_project_prop)

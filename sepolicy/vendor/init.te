@@ -1,0 +1,4 @@
+allow init vendor_proc_oplus_version:file r_file_perms;
+get_prop(init, vendor_variant_prop)
+get_prop(init, vendor_fingerprint_prop)
+set_prop(init, vendor_fingerprint_prop)

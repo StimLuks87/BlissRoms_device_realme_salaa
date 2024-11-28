@@ -1,0 +1,32 @@
+[
+  {
+    "remote"      : "github",
+    "repository"  : "Project-PixelStar/hardware_mediatek",
+    "branch"      : "14-qpr3",
+    "target_path" : "hardware/mediatek"
+  },
+  {
+    "remote"      : "github",
+    "repository"  : "Evolution-X-Devices/hardware_oplus",
+    "branch"      : "udc",
+    "target_path" : "hardware/oplus"
+  },
+  {
+    "remote"      : "github",
+    "repository"  : "LineageOS/android_device_mediatek_sepolicy_vndr",
+    "branch"      : "lineage-21",
+    "target_path" : "device/mediatek/sepolicy_vndr"
+  },
+  {
+    "remote"      : "github",
+    "repository"  : "StimLuks87/vendor_device_realme_salaa",
+    "branch"      : "VIC-F18",
+    "target_path" : "vendor/realme/salaa"
+  },
+  {
+    "remote"      : "github",
+    "repository"  : "StimLuks87/kernel_oplus_mt6785",
+    "branch"      : "VIC",
+    "target_path" : "kernel/realme/salaa"
+  }
+]

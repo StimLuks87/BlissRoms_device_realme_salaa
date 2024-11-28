@@ -1,0 +1,5 @@
+# Charger
+type sysfs_battery, sysfs_type, fs_type;
+
+# Engineering
+type vendor_persist_engineer_file, file_type;

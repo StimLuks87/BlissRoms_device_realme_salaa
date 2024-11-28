@@ -1,0 +1,6 @@
+runtime_resource_overlay {
+    name: "TetheringConfigOverlay",
+    theme: "TetheringConfigOverlay",
+    certificate: "platform",
+    product_specific: true
+}

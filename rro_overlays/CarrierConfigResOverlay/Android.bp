@@ -1,0 +1,7 @@
+runtime_resource_overlay {
+    name: "CarrierConfigResOverlay",
+    theme: "CarrierConfigResOverlay",
+    certificate: "platform",
+    product_specific: true,
+    aaptflags: ["--keep-raw-values"]
+}

@@ -1,0 +1,3 @@
+# Restart RIL once so ims get properly works
+on property:sys.boot_completed=1
+    restart vendor.ril-daemon-mtk
